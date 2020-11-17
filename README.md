@@ -5,7 +5,6 @@ I am a Front End Software Engineer that creates responsive websites with WAI-ARI
 - 🔭 I’m currently working on [InstaQuizzes], [CrwnClothing] and my portfolio website!
 - 🌱 I’m currently learning - Main focus of React, React Native, Typescript, Redux, GraphQL, Integration Testing, Unit Testing
 - 🤔 I’m looking for help with finding consistent freelance work or a full-time position, and contributing to more open source projects.
-- 📫 How to reach me: [LinkedIn][Github]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Being from Colorado, I love to hike, play sports, develop software and read!
 
@@ -34,6 +33,12 @@ I am a Front End Software Engineer that creates responsive websites with WAI-ARI
 ---
 
 <img align="left" alt="Nathan Github Stats" src="https://github-readme-stats.vercel.app/api?username=npdarrington&show_icons=true&hide_border=true" />
+
+### 📫 How to reach me: 
+- [LinkedIn]
+- [Github]
+- Email: nathan@nddesign.me
+- Portfolio Site - coming soon!
 
 [LinkedIn]: https://www.linkedin.com/in/nathandarrington/
 [InstaQuizzes]: https://github.com/npdarrington/instaquizzes
