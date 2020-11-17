@@ -39,7 +39,7 @@ I am a Front End Software Engineer that creates responsive websites with WAI-ARI
 
 ---
 
-<img align="left" alt="Nathan Github Stats" src="https://github-readme-stats.vercel.app/api?username=npdarrington&show_icons=true&hide_border=true" />
+<img align="left" alt="Nathan Github Stats" src="https://github-readme-stats.vercel.app/api?username=npdarrington&show_icons=true" />
 <img align="left" alt="Nathan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=npdarrington" />
 
 [LinkedIn]: https://www.linkedin.com/in/nathandarrington/
